@@ -1,6 +1,11 @@
 h1 {
-  background-image: url(http://bglabs.evade.netdna-cdn.com/45875kli90/15.gif);
+  background-image: url(../img/black.png);
+  color: white;
   padding: 3px 18px;
   font-size: 2em;
   font-family: 'Racing Sans One', cursive;  // Google Web fonts
+}
+
+body {
+  font-family: 'Arimo',"Trebuchet MS",arial,verdana,sans-serif;
 }
